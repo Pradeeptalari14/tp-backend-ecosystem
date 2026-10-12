@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # Enterprise Backend Ecosystem Architecture & Lifecycle Platform
 
 [![CI](https://github.com/Pradeeptalari14/tp-backend-ecosystem/actions/workflows/ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-backend-ecosystem/actions/workflows/ci.yml)
@@ -128,3 +131,6 @@ The Backend Ecosystem Studio connects directly into specialized studios across t
 
 - **Author**: Talari Pradeep
 - **License**: [MIT](LICENSE)
+
+---
+*Synchronized with [Enterprise Backend Ecosystem & Lifecycle Studio Studio](https://pradeeptalari.me/tools/backend-ecosystem/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
